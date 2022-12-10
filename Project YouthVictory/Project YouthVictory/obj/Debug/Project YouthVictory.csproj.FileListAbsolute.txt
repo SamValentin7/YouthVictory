@@ -1,0 +1,13 @@
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\bin\Debug\Project YouthVictory.exe.config
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\bin\Debug\Project YouthVictory.exe
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\bin\Debug\Project YouthVictory.pdb
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project YouthVictory.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project YouthVictory.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project_YouthVictory.Form1.resources
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project_YouthVictory.Properties.Resources.resources
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project YouthVictory.csproj.GenerateResource.cache
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project YouthVictory.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project YouthVictory.exe
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project YouthVictory.pdb
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project_YouthVictory.AddBook.resources
+D:\Documents\GitHub\Portofoliu-2\Youth.Victory\Project YouthVictory\Project YouthVictory\obj\Debug\Project_YouthVictory.AddQuestions.resources
